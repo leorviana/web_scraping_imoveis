@@ -32,7 +32,7 @@ O objetivo da análise foi responder algumas perguntas simples a respeito da var
 Logo abaixo pode ser visualizado o relatório do Microsoft Power BI gerado.
 
 <p align="center">
-  <img src="">
+  <img src="Imagens/dashboard_imoveis_rj.jpg">
 </p>
 
 
